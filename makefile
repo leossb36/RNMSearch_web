@@ -1,6 +1,6 @@
 .PHONY: setup install-deps husky-init
 
-build-env:
+build:
 	@echo "Building environment..."
 	npm install
 	@echo "Init husky config..."
