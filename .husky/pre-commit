@@ -1,0 +1,3 @@
+echo "Rodando lint-staged antes do commit... Aguarde! 🔍"
+
+npx lint-staged
